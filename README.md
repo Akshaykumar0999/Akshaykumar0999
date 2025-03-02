@@ -12,11 +12,11 @@ Hi there, I’m Akshaykumar Kanike 👋
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/akshaykumar-kanike-502204228/)
   
 📌 **Pinned Projects**  
--[ContructionApp](https://csitgharxpert.vercel.app/)  
--[RestaurantApp](https://demores.cs-it.in/login)
--[PaintInventory](hello)
--[LabaratoeyApp](lab)
--[Ecommerce](https://akshinxttrends.ccbp.tech/login)
+- [ContructionApp](https://csitgharxpert.vercel.app/)  
+- [RestaurantApp](https://demores.cs-it.in/login)  
+- [PaintInventory](hello)  
+- [LabaratoeyApp](lab)  
+- [Ecommerce](https://akshinxttrends.ccbp.tech/login)  
  
 <!---
 Akshaykumar0999/Akshaykumar0999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
