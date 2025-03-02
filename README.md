@@ -9,10 +9,10 @@ Hi there, I’m Akshaykumar Kanike 👋
 - 🌐 Portfolio: [Akshaykumar.com](https://i-profile-pi.vercel.app/)
 - 👀 I’m interested in Frontend Technologies and Ai technologies
 - 💞️ I’m looking to collaborate on Frontend Development open source projects.
-- 📫 How to reach me "(https://www.linkedin.com/in/akshay-kumar-kanike-502204228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/akshaykumar-kanike-502204228/)
   
-📌 **Pinned Projects**-
--[ReadMe Card](https://csitgharxpert.vercel.app/)
+📌 **Pinned Projects**  
+-[ContructionApp](https://csitgharxpert.vercel.app/)
  
 <!---
 Akshaykumar0999/Akshaykumar0999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
