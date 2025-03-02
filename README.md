@@ -1,4 +1,4 @@
-Hi there, I’m Akshaykumar Kanike 👋
+Hi there, I’m Akshaykumar Kanike 👋  
 🚀 **Frontend Developer | React.js | UI/UX Enthusiast**
 
 - 🔭 I’m currently working on **[PaintInventoryApp, ]**
